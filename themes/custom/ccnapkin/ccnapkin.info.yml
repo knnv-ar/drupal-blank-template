@@ -1,0 +1,15 @@
+name: Carlos Corach Napkin
+type: theme
+base theme: false
+description: 'A blank argentinian custom theme.'
+package: custom
+version: '1.0.0'
+core_version_requeriment: ^8 || ^9
+
+libraries:
+  - ccnapkin/global-styling
+
+regions:
+  header: Header
+  content: Content
+  footer: Footer
